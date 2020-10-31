@@ -1,3 +1,8 @@
+/***
+* I refered the below youtube link.
+* https://www.youtube.com/watch?v=WDn-htpBlnU&list=PLZo2FfoMkJeEogzRXEJeTb3xpA2RAzwCZ&index=7
+***/
+
 #include <iostream>
 #include <ws2tcpip.h>
 #include <string>
@@ -57,6 +62,7 @@ int main() {
 			cout << "Client Disconnected" << endl;
 			break;
 		} else {
+			cout << string(buf, 0, bytesReceived) << endl;
 			send(clientSocket, buf, bytesReceived + 1, 0);
 		}
 	}
