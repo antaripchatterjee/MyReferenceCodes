@@ -1,6 +1,6 @@
 # MyReferenceCodes
 
-This repository is containing some the reference codes, which helps me revising on some important topics. Total file count in this repository is 2.
+This repository is containing some the reference codes, which helps me revising on some important topics. Total object in this repository is 3.
 
 ## CPP > winsock-codes
 
