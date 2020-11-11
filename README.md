@@ -1,6 +1,6 @@
 # MyReferenceCodes
 
-This repository is containing some the reference codes, which helps me revising on some important topics. Total object in this repository is 4.
+This repository is containing some the reference codes, which helps me revising on some important topics. Total object in this repository is 5.
 
 ## CPP > winsock-codes
 
@@ -25,3 +25,8 @@ This repository is containing some the reference codes, which helps me revising 
 [Code 2](https://github.com/antaripchatterjee/MyReferenceCodes/blob/master/Python/Advance/singletons/method2.py)
 >These codes demonstates, how to create a singletone class in python. The first code overrides the magic method called `__new__` which runs before `__init__` runs, and creates the object. The second method uses a decorator to create a SingleTon class.
 
+## Python > BeautifulSoup
+
+### weather_dotcom_scrapping.py
+[Code](https://github.com/antaripchatterjee/MyReferenceCodes/blob/master/Python/BeautifulSoup/weather_dotcom_scrapping.py)
+>This code utilizes the power of `BeautifulSoup 4` to scrap the web page data. In this example code I fetched the web page from [weather.com](https://weather.com/en-IN/weather/today/l/22.57,88.36?par=google&temp=c) using `requests` module and on success, I did a data scrapping with `beautifulsoup4`. Finally I took out various weather data from the response.
