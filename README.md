@@ -1,6 +1,6 @@
 # MyReferenceCodes
 
-This repository is containing some the reference codes, which helps me revising on some important topics. Total object in this repository is 5.
+This repository is containing some the reference codes, which helps me revising on some important topics. Total object in this repository is 6.
 
 ## CPP > winsock-codes
 
@@ -30,3 +30,9 @@ This repository is containing some the reference codes, which helps me revising 
 ### weather_dotcom_scrapping.py
 [Code](https://github.com/antaripchatterjee/MyReferenceCodes/blob/master/Python/BeautifulSoup/weather_dotcom_scrapping.py)
 >This code utilizes the power of `BeautifulSoup 4` to scrap the web page data. In this example code I fetched the web page from [weather.com](https://weather.com/en-IN/weather/today/l/22.57,88.36?par=google&temp=c) using `requests` module and on success, I did a data scrapping with `beautifulsoup4`. Finally I took out various weather data from the response.
+
+## Python > PyPi-Package-Release
+
+### twine-upload.md
+[Doc](https://github.com/antaripchatterjee/MyReferenceCodes/blob/master/Python/PyPi-Package-Release/twine-upload.md)
+>This document provides a brief introduction, on how to upload a python package to [PyPi](https://pypi.org/) or Python Package Index.
