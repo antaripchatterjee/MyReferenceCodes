@@ -1,6 +1,6 @@
 # MyReferenceCodes
 
-This repository is containing some the reference codes, which helps me revising on some important topics. Total object in this repository is 6.
+This repository is containing some the reference codes, which helps me revising on some important topics. Total object in this repository is 7.
 
 ## CPP > winsock-codes
 
@@ -11,6 +11,10 @@ This repository is containing some the reference codes, which helps me revising 
 ### tcpip-simple-client.cpp
 [Code](https://github.com/antaripchatterjee/MyReferenceCodes/blob/master/CPP/winsock-codes/tcpip-simple-client.cpp)
 >This code was built with VS2017 community edition and purpose of this code is to create a simple client using C++ Winsock library which can connect to the same server, created with [tcpip-simple-server.cpp](https://github.com/antaripchatterjee/MyReferenceCodes/blob/master/CPP/winsock-codes/tcpip-simple-server.cpp) and it can also send message to the server, and in return, it receives the same message.
+
+### tcp-server-1thread-nclinet.cpp
+[Code](https://github.com/antaripchatterjee/MyReferenceCodes/blob/master/CPP/winsock-codes/tcp-server-1thread-nclinet.cpp)
+>This code was built with VS2017 and creates a simple tcp server, which accepts multiple client in the same session, but using a single thread only.
 
 ## Python > Flask
 
