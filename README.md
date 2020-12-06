@@ -1,6 +1,6 @@
 # MyReferenceCodes
 
-This repository is containing some the reference codes, which helps me revising on some important topics. Total object in this repository is 7.
+This repository is containing some the reference codes, which helps me revising on some important topics. Total object in this repository is 8.
 
 ## CPP > winsock-codes
 
@@ -40,3 +40,9 @@ This repository is containing some the reference codes, which helps me revising 
 ### twine-upload.md
 [Doc](https://github.com/antaripchatterjee/MyReferenceCodes/blob/master/Python/PyPi-Package-Release/twine-upload.md)
 >This document provides a brief introduction, on how to upload a python package to [PyPi](https://pypi.org/) or Python Package Index.
+
+## C > DataStructure
+
+### hash_table.c
+[Code](https://github.com/antaripchatterjee/MyReferenceCodes/blob/master/C/DataStructure/hash_table.c)
+>This code will let us create hash table, which will have keys of type `char*` and values of type `int`. With this, we can store a key-value pair, we can read them either as a pair or as array of key and array of value only.
