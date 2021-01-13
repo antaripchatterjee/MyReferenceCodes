@@ -1,6 +1,6 @@
 # MyReferenceCodes
 
-This repository is containing some the reference codes, which helps me revising on some important topics. Total object in this repository is 8.
+This repository is containing some the reference codes, which helps me revising on some important topics. Total object in this repository is 9.
 
 ## CPP > winsock-codes
 
@@ -46,3 +46,9 @@ This repository is containing some the reference codes, which helps me revising 
 ### hash_table.c
 [Code](https://github.com/antaripchatterjee/MyReferenceCodes/blob/master/C/DataStructure/hash_table.c)
 >This code will let us create hash table, which will have keys of type `char*` and values of type `int`. With this, we can store a key-value pair, we can read them either as a pair or as array of key and array of value only.
+
+## Javascript > redux-tutorial-basic
+
+### index.js
+[Code](https://github.com/antaripchatterjee/MyReferenceCodes/blob/master/Javascript/redux-tutorial-basic/index.js)
+>This is a basic illustration of redux functionality in javascript application. Redux is a state management library in a predictable way for javascript applications. Everytime a `dispatch` function is called, the state is managed and updated, which can be viewed with `getState` method. Before testing this code, one musy install redux inside the folder `/MyReferenceCodes/Javascript/redux-tutorial-basic` folder by running the command, `npm install redux`.
