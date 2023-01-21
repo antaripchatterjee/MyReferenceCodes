@@ -34,5 +34,6 @@ int main() {
         for(size_t i = 0; i < evens.length; i++) {
                 printf("Item %ld -> %d\n", i, ((int*) evens.dest_data_ptr)[i]);
         }
+        free(evens.dest_data_ptr);
         return 0;
 }
